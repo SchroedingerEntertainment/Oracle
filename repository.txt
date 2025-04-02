@@ -1,0 +1,13 @@
+{
+  "provider": "GitHub",
+  "remote": {
+    "owner": "SchroedingerEntertainment",
+    "name": "Oracle"
+  },
+  "branch": {
+    "name": "main"
+  },
+  "ignore": [
+    "/.**"
+  ]
+}
