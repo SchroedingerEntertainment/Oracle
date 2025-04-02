@@ -1,7 +1,7 @@
 ## Oracle - A simplified Pen & Paper based Roleplay System
 
 Oracle is a simplified Pen & Paper based Roleplay System designed for shorter, arc-driven campaigns
-and one-shot adventures in any kind of time and ssetting. Also the game can be played in any genre,
+and one-shot adventures in any kind of time and setting. Also the game can be played in any genre,
 regardless if the story is told and the world illuminates in the traditional way or as the ground for building
 digital gameplay on top. The game functions primarily as a conversation in which ideas, information,
 actions, and dialogue are exchanged between you and your group until a situation arises where the
