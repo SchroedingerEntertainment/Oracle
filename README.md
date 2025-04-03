@@ -30,7 +30,7 @@ in an easy browsable way or as a ready to print document.
 
 [Browse the Wiki](https://github.com/SchroedingerEntertainment/Oracle/wiki)
 
-[Get the Character-Sheet]()
+[Get the Character-Sheet](/Assets/Character-Sheet.psd)
 [Download the Rulebook]()
 
 <hr/>
@@ -43,10 +43,18 @@ with your own artworks. The game is based on a combination of an all-general pur
 The cards can provide customized classifications and characteristics, as well as skill- and item cards to complete your character.
 The dedicated Smart-Objects can be used to offer custom artworks for your character's gear.
 
-Download and customize our [Character Sheet]() and [Card Templates]() using the free [Photopea](https://www.photopea.com/) design tool or any other Software capable of editing .PSD files. 
+Download and customize our [Character Sheet](/Assets/Character-Sheet.psd) and Card Templates using the free [Photopea](https://www.photopea.com/) design tool
+or any other Software capable of editing .PSD files.
 
 You have the option of having your materials created by any printing service in real life. Our materials are made in 300 DPI to offer
 crisp and sharp prints
+
+<hr/>
+
+**The Logoipsum logos are used under the terms and conditions of the Logoipsum.com Fair Use License** You can use them on any personal
+or commercial project. You can modify, reconstruct and take part or whole logos. You can re-distribute the logos into the product you sell.
+You can not sell the logos as it is. You can not claim that you own the logos or register it or make a trademark out of it. You may view the
+license text under https://logoipsum.com/license
 
 <hr/>
 
