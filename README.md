@@ -31,6 +31,7 @@ in an easy browsable way or as a ready to print document.
 [Browse the Wiki](https://github.com/SchroedingerEntertainment/Oracle/wiki)
 
 [Get the Character-Sheet](/Assets/Character-Sheet.psd)
+
 [Download the Rulebook]()
 
 <hr/>
@@ -43,7 +44,7 @@ with your own artworks. The game is based on a combination of an all-general pur
 The cards can provide customized classifications and characteristics, as well as skill- and item cards to complete your character.
 The dedicated Smart-Objects can be used to offer custom artworks for your character's gear.
 
-Download and customize our [Character Sheet](/Assets/Character-Sheet.psd) and Card Templates using the free [Photopea](https://www.photopea.com/) design tool
+Download and customize our [Character Sheet](/Assets/Character-Sheet.psd) and [Card Templates](/Assets/Cards) using the free [Photopea](https://www.photopea.com/) design tool
 or any other Software capable of editing .PSD files.
 
 You have the option of having your materials created by any printing service in real life. Our materials are made in 300 DPI to offer
